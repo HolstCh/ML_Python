@@ -1,2 +1,2 @@
 # ML practice
-Machine learning breast ancer classifier using KNN algorithm
+Machine learning - breast cancer classifier using KNN algorithm
